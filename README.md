@@ -56,4 +56,3 @@ DEPENDENCIES
 ![App Screenshot](/Screenshots/Screenshot%202022-04-24%20155956.png)
 
 
-"# JavaSyncService" 
